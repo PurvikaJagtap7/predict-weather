@@ -14,7 +14,7 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 
 ## Experience WeatherVista
 
-🌦️ **Explore the WeatherVista Demo: [Click Here](https://wasimtikki120.github.io/WeatherVista-Interactive-Weather-App/)** 🌈
+🌦️ **Explore the WeatherVista Demo: [Click Here](https://predict-weather-six.vercel.app/)** 🌈
 
 ## About
 
